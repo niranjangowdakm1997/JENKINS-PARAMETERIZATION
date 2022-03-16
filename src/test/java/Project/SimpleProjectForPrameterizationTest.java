@@ -2,7 +2,7 @@ package Project;
 
 import org.testng.annotations.Test;
 
-public class SimpleProjectForPrameterization {
+public class SimpleProjectForPrameterizationTest {
 	
 	@Test
 	
