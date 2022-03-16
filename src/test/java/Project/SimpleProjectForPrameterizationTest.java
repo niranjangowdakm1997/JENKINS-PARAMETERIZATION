@@ -8,8 +8,10 @@ public class SimpleProjectForPrameterizationTest {
 	
 	public void runInGithub()
 	{
+		
 		String BROWSER = System.getProperty("browser");
 		System.out.println(BROWSER);
+		
 	}
 			
 
